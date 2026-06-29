@@ -1,0 +1,6 @@
+.gopro_auth.json
+download/
+*.zip
+__pycache__/
+.DS_Store
+
